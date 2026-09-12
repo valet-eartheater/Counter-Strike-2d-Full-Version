@@ -229,3 +229,6 @@ This repository serves as the official landing page for Counter Strike 2D. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Counter Strike 2D today!**
+
+---
+**Last updated:** 2026-09-12 11:56:38 UTC
